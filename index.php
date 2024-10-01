@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Интернет-магазин \"Одежда\"");
+$APPLICATION->SetTitle("Интернет-магазин123 \"Одежда\"");
 ?>
 <?if (IsModuleInstalled("advertising")):?>
 	<div class="mb-5">
